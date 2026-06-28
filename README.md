@@ -97,6 +97,11 @@ Created an interactive Power BI dashboard including:
 
 ---
 
+## Dashboard Preview
+
+![Dashboard](images/dashboard.png)
+
+---
 
 ## Project Structure
 
